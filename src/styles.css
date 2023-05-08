@@ -2,3 +2,14 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+header.MuiPaper-root {
+    background-color: #ff77c1;
+}
+
+.collectionCard {
+  width: 200px;
+  border: 1px solid black;
+  padding: 49px;
+  margin: 20px;
+}
